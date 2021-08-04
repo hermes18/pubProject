@@ -1,0 +1,1973 @@
+﻿mobile number pattern mismatch
+
+claim number validation
+
+country code
+
+add comments while + click  -  done
+
+while click on confirmation and back to personal details
+and click on send is sending the value. in attachments
+
+application number validation in type of event
+
+contry dropdown in personal details
+
+URL access denied common page
+
+privacy policy URL binding
+
+
+
+https://metlifeprod.service-now.com/sp?id=sc_cat_item&sys_id=c852a3d44f692bc05da14e328110c7a5&sysparm_category=33ad8e5413439f84279b51a63244b020
+hyderabad
+cave
+chennai
+ramani
+janaki
+Hermes786
+
+
+
+
+defect 61 dont open the developer tools or body remove overflow-y:hidden
+
+need to set dev environment
+
+
+added type of event one service integration
+integrate the local jsons in the environment
+vidyayini, mary and my code merged
+session clear added
+pattern added claim number
+pattern language added for phone number
+
+
+july1st
+
+claim input group
+terms and condition 
+IE includes to indexof
+IE opacity visibility for upload docs
+IE removed pdf viewer and put object
+country in personal details
+coordinate with the team and worked on the defects.
+defect 61
+added country functionality in existing claim
+
+
+RCA:
+Process:
+proper userstories not given
+stories explanation not happened
+stories points - not enough time
+how commitment is given?
+Is it commitment given based on earlier application developed or similar application developed.
+
+Functionaliy:
+total revamp
+Agent broker, customer, call center flow
+multiple languages
+multiple country functionality
+mobile responsivness support like(Mobile,Android,Tab,Desktop)
+multi browser supports like(IE,Chrome,Firefox)
+Accessibity
+
+Testing:
+Testing happened for the functionaality not in the user story
+
+Environment:
+learning and coding
+No environment for Code merging
+service side changes frequently
+environment for testing
+if any issues in service side we will get blocked.
+
+Flows:
+Agent
+broker
+customer
+
+july2nd
+download file for tiff
+codemerge
+notifyme service integration
+bhavadharani applicaiton issue
+robin code merged
+restrict input field on max length
+file preview download alignment
+merged with vidyayini code
+download sql in vdi, download certificate for vdi
+
+
+
+Accessibity tab navigation in landing page for footer(49)
+Created access denied component for english(54).
+Download link made only for tiff file.(124)
+DB page submit email service integration with Meera.
+Country default selection worked with Meera (131)
+Worked with Bhavadharani to resolve ecustomer application issue.
+Robin and vidyayini's code merged.
+
+
+
+
+jULY 3
+Access-denied-en hide footer
+
+124 done
+
+defect 54 new requirement changed in Server side
+defect 49 new requirement changed in Server side
+
+defect 122 new requirement from tester
+defect 123 new requirement from tester
+
+
+128,129,130,131,132 New requirement
+
+
+yesterday I worked in sprint 2 defects some new requirements hav came
+
+124,131
+
+
+
+July 6
+environment changed
+
++document link remove
+added country for poland
+
+need to get event type code for attach document from shabana (instead of name like claim form need to change as code)
+
+working with senthil to resolve IE issue
+
+call  with shabana
+personal details section enable and sent to vidyayini
+
+coordinate with Senthil and Daniel for defects analyse.
+
+Defect_027 - Worked with Senthil and fixed the defect. 
+Defect_081 - Meera worked and fixed the issue.
+Defect_128 - Rules is coming as null for RO.
+Defect_129,Defect_130 Working as per existing application. Whatever fields having tooltip in existing application we given in New app.
+Defect_135 For Access-Denied_En Need link to redirect because we dont know the country or language
+Defect_136 Added Enter click event to trigger the function.
+
+worked with robin to resolve validation issue in Ecustomer
+worked with Osama to resolve check type of event binding issue.
+worked with vidayayini to resolve binding issue in input fields.
+
+osama type of event fix. 10am.time 1.22am
+
+
+coordinate with Senthil and Daniel for defects analyse.
+Added country functionality for poland
+Resolved Defects Defect_027, Defect_128, Defect_135, Defect_136
+worked with robin to resolve validation issue in Ecustomer
+worked with Osama to resolve check type of event binding issue.
+worked with vidayayini to resolve binding issue in input fields.
+
+
+july 7
+started personal details
+ajith called and ask to work on defects.
+errors restrict max length and paatern
+masking
+worked with mary for back popup
+worked with vidyayini for input field * binding. its not completed
+maxlength restricted
+
+2. Min and max length across pages ----- Dilli
+
+non mandatory - max length 26 ( based on options, Please check User stories )
+
+mandatory - max length - 40
+pattern restrict fixed in common components
+
+i worked on sprint 2 defects
+coordinate with the team to resolve the defects
+defeect 111 is done. yesterday i gave a quick demo on the exact functionality to shabana. after this call we will connect and check for the other functionality also
+
+
+once there is no issues 
+
+defect 141 fixed
+defect 111 in progress
+
+error message 
+
+worked with Mary for  reference binding issue 
+call with shabana and osama about error messages
+worked with vidyayini to get border in checkbox field
+merged code.
+resolved
+
+ npm install ngx-mask@8.1.7
+
+
+
+
+
+july 8
+
+moved code to VDI
+try to host my system
+stand of call
+personal details translation
+
+eClaims.newClaim.personalDtails.amlTitle is not there in property file for RO
+
+trasnlation issue in type of event
+
+defect checking with senthil.
+
+worked in personal details missed translation
+
+call with shabana
+
+
+july 9
+translation in personal details
+hidden feilds identified and put
+with osamma defect analysis and fix
+admin things setuped in my vdi with the help of OSAMA
+
+july 10
+DOB from pesel service call
+shown demo to shabana
+Retro call
+Event details user story call.
+changes made based on the shabana suggestion
+
+
+
+july 13
+10.45 - 11.20  call with shabana
+12.00 - 12.45 status call
+personal details statuscall(12.50 - 1.15)
+
+service configuration issue
+installation issue with org.drools.io.ResourceFactory
+personal details section rules coming as null
+RULE_SHEET_PERSONAL_DETAIL_SEC_RENDER
+
+
+we had lot of issues in service code setup in VDI, started at 1.15 pm and completed at 5.00pm
+
+Functionalities Made
+
+countries in resolver,
+countries service integration 
+select other shows fill in country
+other language translation added
+country service not working. for now just put the mock json.
+event type dropdown service integration
+autocomplete off
+date of birth min date 1900 logic done and maximum today done
+pesel field show only for poland
+DOB auto populate from pesel number . need to check with valid pesel number
+gender auto populate from pesel number. need to check with valid pesel number
+added disclaimer based on the country selected
+credit insurance for profession field
+personal data process notification text message in insurance would come for romania
+
+
+pesel number is wrong need to show error message
+personal identity number in RO whatever country selected focus out auto polpulate dob
+label for national id number 
+maxlength is different for RO and other countries 20 and 13
+
+
+
+
+
+july 14:
+gateservice ro issue
+while merging missed some fucntionality in add-new-claims
+sirshendu for deployment
+demo to shabana
+placeholder for date field
+date field MM/DD/YYYY
+
+code merge
+worked with mary for defect pattern restrict
+worked with osama for address section
+
+
+
+july15:
+10.20 started call with shabana 11.40
+status call 11.45 - 12.15
+call with augugustine
+rework of radio button component because of service call response is coming with all options
+service calls are created in different way UI strucuter in deifferent way.
+created radio group component
+added all control names in model
+tried to change in the radio button component.. it affects the other fields also.. so i created new component
+instead of radio group radio feild given debugging takes time
+adding translation for the radio button feilds
+individual, institute  
+upto 1.30am
+
+
+july16:
+10.20 started
+worked with osama to resolve radio button issue and translation in personal detail
+status call 12 to 12.45
+2.15 to 3 tfs session
+demo callfrom 3 - 4.15
+Backend is not working
+worked upto 3.30am
+
+july17
+call with mary for service call
+status call 12- 12.30
+trader and individual different trader logic done
+form init for allcomponents and view child reference
+for array creation for the citizenship field in benefit
+postal code mask
+** should come before the text in automatically generated
+once pesel field is hidden ** and Automatically generated from PESEL should go
+In Romania PIN Service call should not go for other countries.
+clear dob,cnp and gender for other countries than default country
+I icon and information needs to be added in benefit section
+alignment on the other country citizenship
+PIN is not showing in ROMANIA
+Country of registration of Institution
+Country where the Institution operates - fields needs to come in instituion 
+
+
+
+
+
+
+
+
+created base setup for UI development in angular 8
+created internationalization logics
+created mock service to work without real service call logic using environments
+created common components like input,radio,checkbox which can be used accross the application
+created personal details page
+pattern restriction directive
+helping teammates on development in angular
+
+
+
+july 22
+auto populate poland in poland country nationality initially
+other country field enable based on other selection  applicable for both POLAND and ROMANIA
+document valid upto enable based on the country selection in POLAND will not applicable for ROMANIA
+tax residency based on the citizenship selection as USA. If any one of the selected country has USA in POLAND will not applicable for ROMANIA
+If tax residence country is Others it should enable other country input fiels applicable only for Poland. 
+add 5 citizenship in POLAND will not applicable for ROMANIA
+auto populate romania in romania country nationality initially
+Special character binding issue in masked fields
+form init function added for all components.
+
+Same kind of logic added applicable for institution and trader
+
+
+
+showMaskTyped="true" dropSpecialCharacters="false"
+
+
+
+july 23:
+worked on heath family doctor section.
+Kalai changed rule sheet for additional json. 
+worked with mary for review section doubts.
+worked with robin fixed some issue in additional details in event details sec.
+
+upto 1am
+
+july 24:
+VDI issue
+Kalai changed the value for countrylist in backend issue.
+Account num backend change.
+event details compile issue fix
+status call
+country is came as directly before it was inside list and insitde item
+
+defect 169
+Defect_172
+Defect_171
+Defect_193
+defect_196
+defect 199
+defect 200
+defect 204
+defect 206
+defect-197
+Defect_174 - need to close the developer tools and check
+
+refresh loading same page functionality.
+
+
+july 27:
+fixed the refresh param issue.
+countries not loaded in existing claim issue fix.
+date field red border issue pattern defect 171.
+mary code merge review details 
+changed some code in server side.. which is not working properly for us. to rectify that its taking time. we need environment for that.
+defects fixed
+169
+171
+172
+192
+196
+203
+
+191
+209
+215
+208
+209
+
+180 already working not able to reproduce issue
+216 already working not able to reproduce issue
+
+207 clarification
+
+213 server side service created which is not working in local for osama.
+
+
+10 +2 +1
+
+Open issues
+
+197
+213
+other nationality and add more coming for all
+country not loading some times block the code
+
+
+call with shabana ecustomer session
+
+
+July 28
+VDI connecting issue
+196,217,207,208
+EMAIL LABEL ISSUE SENT BY SENTHIL
+VDI issue 11.45 - 3.30 
+VDI STS is not working
+worked with osama for event details
+country list redirection issue with newclaim
+created form submit func logic on all components
+form of disbursement issue checkbox should highlight while submit if not selected.
+
+
+July 29
+Date directive with mask is overiding datepicker so error is coming not able to mask with ngx-mask need to try with angular-input-mask
+defect_191
+overall masking changed
+Null in label in IE
+popup issue in IE
+defect_191
+201- animation is pending
+213
+215 
+217
+220
+221 - rule sheet fix
+bank number masking
+
+auto generated message  functionality for bank number
+
+
+
+
+july 30
+213 red border highlight issue fixed (numeric space wont allow alphabets)
+
+Defect_201 need more clarification
+218 do we need to hardcode hide and show condition for profession fields based on type of event insurance coverage
+219 need to check
+220 restrict the user to key the value
+
+
+
+	Null in label
+	Model popup not opening
+	error message in attachment section nt dispalyed 
+	overall submit not happening if more files are attached
+	session expiry not working
+
+
+Environment issue retro..
+session popup in IE is showing issue fixed now.
+capacity label is not turning red if it is not selected senthil reported in mail
+194 need more clarification on which text box (for nationaity other field is opening)
+201 animation is pending
+213 red border highlight issue (numeric space wont allow alphabets) placeholder pending
+Defect_218 fixed
+219 error stepper in add new claims and postal is copying now
+220 date restricted to key in.
+type of event is not filled restricted other steppers to fill.
+worked with mary to resolve npm install isuue un VDI
+Had issue with service setup claim service and document service worked with meera to solve the issue in my local
+worked with osma for event details
+
+
+
+
+July 31
+URl is not given
+   https://10.112.200.150:9444/eClaims/EclaimsPolandPartnerLoginServ?ApplicationType=newApp&Pesel=123456789
+
+https://10.112.204.4:999/eClaims/EclaimsRomaniaPartnerLoginServ?ApplicationType=newApp&Pesel=123456789
+defects fix in sprint 3
+
+
+
+
+
+31
+46
+
+
+August 1
+27
+40
+28 working for me server side change rule sheet
+47 -fixed and InheritenceLabel fixed
+48 -rule sheet change primary Owner event is coming
+30 rulesheet change mobile mandatory false
+
+46 -1 rule sheet change event types in insurance refer
+2 fixed
+3 fixed
+4 fixed
+5 fixed
+
+
+
+august 3
+defect 27 fixed
+defect 46 - 1st -insurance event refers to - need to change in rulesheet
+
+august 6
+optimizedProd
+			
+			target es5 in tsconfig 
+			
+			browserlist
+
+			es5Eclaims- build oprimizer False optimizer true removed some polyfills
+			
+			
+			http://10.64.51.223:8080/es5EclaimsOptimesFalse/?sourceOrigin=U&identifierToken=token&countryCode=pl
+			
+			need to remove all unwanted modules from application and files from polyfils
+			
+			
+			
+			
+			
+			
+			10/08/2020
+			1543 front end change done... rulesheet change is there
+			1730 fixed
+			1600 fixed
+			1675 - need to check values
+		defect 46	only insured fixed, taxResidencyCountryIndv coming as false
+		defect 75   is working
+		defect48 working for me. if issue it is Security issue in password feild in https.
+		
+		policyNumber: {renderFlag: true, mandatoryFlag: false, subQuestionFlag: false, fieldmaxlength: "8",…}
+allowedDataType: "numeric"
+fieldmaxlength: "8"
+
+
+
+august 11
+62 fixed
+
+
+copyData is coming as true defect 1753
+90 fixed
+88 fixed
+
+
+august 13
+sprint 5 starts
+checking for bindings
+
+date restrict
+date future restrict
+lable hover
+
+post box in postal order section
+
+100347218610
+
+100.124.30.134  -  IPconfig
+
+10.64.51.223
+
+
+
+
+user name needs to come from url
+identifier token
+
+
+august 17
+clearing console errors
+submit functionality red mark on sections and next button
+form of disbursement section submit
+
+august 18
+Agent broker flow
+replace the required functions from type of event to add-new-claim
+
+august 19
+broker flow
+save submit issue
+email validation server side fails
+500 internal server error
+
+august 20
+save submit issue
+pdfDocument Type newly coming.
+
+sportsclub error
+loader changed 
+call center directly go to submit claim
+
+E agency - User Agent
+
+disclaimer not needed
+
+browser button
+
+call center, call center customer
+
+august 21
+without file it is failing
+
+august 25
+broker flow username,disclaimer,attachments,browse button
+
+
+september 1
+attachment for broker flow exsting attach
+copy button design change
+rule.json call discard
+Defect 041
+Defect 102
+defect 343
+defect 348
+defect 352
+defect 349
+defect 232
+
+eventdetails additional comments data binding as Meghana said
+nationality binding issue as saikat said
+
+september 2
+restrict countrylist service call in landing page
+osama reported pesel number border issue
+2256 fixed
+
+
+september3
+defect 371
+split service calls
+clear console.. 
+removed javscriot errors
+
+
+september 7
+
+defect 86 and 390 are same
+defect 386 fixed
+defect 397 
+for this defect all 
+the documents are showed based on server response 
+asked clarification with shabana
+for the particular scenario we need handle in UI or 
+
+
+september 8
+Defect 405
+defect 86
+defect 353 2nd point
+
+
+september 9
+Defect 405
+Defect 408
+
+
+september 11
+defect 409
+Defect 421
+Defect 408
+Defect 390
+Defect 428
+
+
+
+Defect 413
+
+
+
+september 14
+
+CORPS-1551  removed appostrophi in pl_en
+defect 386 as per VD
+Defect 416
+Please remove ‘?’ in all sections
+alphabets should type in UPPERCASE
+
+Defect 430 - asked clarification to shabana
+
+
+
+CORPS-2332
+
+{"partner":"metlife","sourceOfOrigin":"O","screenName":"CorrespondenceAddressSectionComponentRender","lob":"Individual","product":"Individual","submittedBy":"Customer","primaryClaimEvent":"E160","selectedClaim":"E160"}
+
+mobileNumber: {renderFlag: true, mandatoryFlag: false, 
+email: {renderFlag: true, mandatoryFlag: false, subQuestionFlag: false, fieldmaxlength: null,…}
+
+
+Defect 430
+
+for both sourceOfOrigin "O" and "U"
+
+{"partner":"metlife","sourceOfOrigin":"O","screenName":"ResidenceAddressSectionComponentRender","lob":"Individual","product":"Individual","submittedBy":"Customer","primaryClaimEvent":"E160","selectedClaim":"E160"}
+
+copyDataFromEc: {renderFlag: false, mandatoryFlag: false, 
+
+
+
+
+september 15
+defect 409
+defect 451
+defect 433 UI done.
+Defect 447
+
+Defect 448 - is working already
+
+
+
+Defect 432	CORPS-2386
+
+eventRelatedTo: {renderFlag: false, mandatoryFlag: false, subQuestionFlag: false, fieldmaxlength: null,…}
+
+{"partner":"metlife","sourceOfOrigin":"C","screenName":"EventDetailEventInformationSectionRender","lob":"Financial","product":"Financial","submittedBy":"CallCenter","primaryClaimEvent":"E250","selectedClaim":"E250"}
+
+
+
+september 16
+Defect 437 - fixed
+Defect 438 - fixed
+
+Defect 440 - fixed
+
+Defect 441 - fixed
+
+Defect 449 - rulesheet change for claim number. Informed to Kalai. Need to check with Shabana or Client.
+
+Defect 452 - rulesheet change correspondance other country allowed type is ','. Informed to Kalai. 
+
+Defect 453 - fixed
+Defect 454 - no code fix done - working already
+Defect 455 - fixed 
+Defect 457 - fixed
+
+
+September 17
+Defect 187 - fixed
+
+Defect 251 - appostrophe fixed
+
+Defect 402 - local it is working. 
+Defect 415 - fixed
+Defect 426 - Working as expected for me
+
+Defect 433 - working as expected
+Defect 443 - upload doc coming as empty. need to check in backend
+
+Defect 452 - fixed in rule sheet not committed.
+Defect 458 - fixed
+Defect 459 - Edge specific.. in progress --
+Payment to Financial Institution Field
+
+
+september 18
+
+Defect 359 -
+Defect 397 - working for me
+Defect 432 - event related to field missing --
+Defect 440 - fixed
+Defect 443 - working duplicates docs coming
+Defect 459 -
+Defect 461 is working for me
+Defect 463 fixed
+Defect 464 fixed
+Defect 452 - maxlength is different
+
+
+
+september 21
+Defect 468
+Defect 452
+Defect 412
+
+
+september 22
+Defect 466
+Defect 452
+Defect 412
+Defect 463
+
+september 23
+
+Defect 467 - fixed
+defect 443,474 - upload doc empty based on logic. Need to check with shabana whether it is applicable only for poland.
+Defect 471 - fixed
+Defect 469 - working as expected
+Defect 475 - fixed by mary
+After implementing the Token service in eClaims, Language selection is not showing. code fix Done. Yet to commit.
+
+
+September 24
+Defect 443 - fixed
+Defect 474 - fixed
+
+Defect 359 -fixed
+Defect 479 - fixed
+
+Defect 477 - As per Shabana's comment it is working as per expected 
+Defect 465 - fixed
+
+Defect 466 - fixed
+
+
+
+Defect 480 - working as expected. different issue is there
+
+
+september 25
+Defect 359 - working in local
+Defect 466 - fixed
+Defect 479 - fixed
+Defect 480 - fixed
+Defect 482 - working in local
+Defect 483 - fixed
+Defect 484 - fixed
+Defect 485 - fixed
+
+
+september 28
+Defect 472 
+
+september 29
+Defect 423 - Discussed with kalai. Need clarification with Shabana.
+Defect 486 - fixed
+Defect 492 - fixed
+
+Defect 491 - It is working in local.
+Defect 487 - It is working in local. Asked Daniel to retest.
+Defect 489 - It is working in local. Asked Daniel to retest.
+Defect 493 - Discussed with kalai. Need more clarification with Shabana.
+
+Romania
+Form of Disbursement section not displayed in Existing but it is displayed in our application – Romania
+Event: 
+Individual policy
+Coverage : Fracture or burns
+
+Request:
+{"partner":"metlife","sourceOfOrigin":"O","screenName":"PersonalDetailsSectionsRender","lob":"IndividualLife","product":"IndividualLife","submittedBy":"Customer","primaryClaimEvent":"E430","selectedClaim":"E430"}
+
+Response:
+formOfDisbursementSection: {renderFlag: true, mandatoryFlag: true, subQuestionFlag: false, fieldmaxlength: null,…}
+
+
+
+september 30
+
+Defect 469 fixed
+Defect 494 fixed
+
+Defect 489 fixed
+Defect 493 fixed
+Defect 495 - sent details to kalai
+Defect 423 - informed to kalai
+
+Defect 459 - fixed
+Defect 086 - Daniel is checking
+
+
+october 01
+Defect 478 fixed
+Defect 429 fixed
+Defect 497 fixed
+Defect 456 fixed
+
+october 05
+Defect 502 - Fixed
+Defect 499 - Now able to submit
+Defect 501 - coverage E510 should not come for the type of event selection. Need to check shabana
+
+october 06
+Defect 511 - Working as expected
+Defect 509 - fixed
+Defect 508 - screen not yet developed. Need to check with Shabana.
+Defect 505 - need to check
+Defect 461 - in progress
+
+
+
+october 07
+Defect 515 - fixed
+Defect 505 - I have fixed same kind of defect earlier raised by senthil. Not able to reproduce. Asked senthil to retest.
+Defect 508 - need to check with shabana
+Defect 461 - fixed. Need to check all the scenarios once
+Defect 307 - fixed. Need to check all the scenarios once
+
+CORPS-2806 - It is Seems like CR.
+
+Defect 086 - need to check on which scenario red indicator is showing
+Defect 465 - green tick issue
+
+ 
+ october 08
+ Defect 517 - Working for me. asked daneil to check.
+
+ Defect 086 - fixed
+ Defect 516 - fixed
+
+Defect 307 - fixed
+Defect 453 - fixed
+Defect 508 - Angular side screen developed.
+
+ Defect 519 - CR
+
+Not Loaded when Second Claim
+
+
+october 09
+Defect 412 - fixed
+Defect 456 - fixed
+Defect 477 - fixed
+Defect 488 - fixed need to deploy in QA
+Defect 504 - working for me
+Defect 508 - fixed
+Defect 519 - fixed
+Defect 520 - fixed
+Defect 521 - working as expeceted
+Defect 522 - fixed
+CORPS-3101 - fixed
+Defect 461 - in progress
+Defect 523 - in progress
+
+october 12
+Defect 359 - not moved to QA
+Defect 477 - not moved to QA
+Defect 504 - working in local
+Defect 453 - working in local
+Defect 456 - fixed
+Defect 523 - fixed
+Defect 524 - fixed. service URL changed as per backend.
+Defect 521 - working as expected
+Defect 525 - WORKING IN LOCAL
+Defect 526 - other than 1 defect all are working fine when tested in laptop with mobile screen mode.
+
+Defect 461 -
+
+loading page - need to check
+translation - seems to be new change
+
+
+
+october 13
+
+Defect 307 - fixed
+
+
+Defect 527 - fixed
+
+
+Defect 453 - working as expected
+
+Defect 529 - fixed. rulesheet change done
+
+Defect 500 - fixed. rulesheet change done
+
+Defect 530 - label Changed recently. Discussed with Shabana. She asked to hold on the label related changes.
+
+Defect 504 - Working in local. not working in QA. Server deployment issue
+
+Defect 526 - Working as expected while checking with responsive mode in PC. Need to check in mobile device.
+
+
+
+
+october 14 
+Defect 086 - fixed
+defect 465 -fixed
+defect 307 - fixed
+Defect 461 - fixed
+
+Defect 526 -  need to check in mobile
+Defect 532-  need to check in mobile
+Defect 535-  need to check in mobile
+ 
+ 
+ october 15
+ Defect 525 - fixed
+ Defect 526 - mobile
+ Defect 530 - label change on hold
+ Defect 532 - mobile
+ Defect 535 - mobile
+ Defect 536 - rule sheet change - shabana has changed some rulsheet - details sent to kalai
+ Defect 537 - fixed
+
+ Defect 539 - slowness issue
+ 
+ Defect 540 - working as expected - asked daneil to retest
+ Defect 541 - fixed
+ Defect 542 - webservice issue.500 internal server - now working fine.
+
+
+october 19
+Defect 543 - fixed
+defect 359 - CORPS-2267 - FIXED
+Defect 546 - fixed
+Defect 547 - fixed
+Defect 544 - UI change done -need to do rulesheet change
+Defect 552 - fixed
+
+
+
+
+eClaims - Not able to submit request in attach documents - Poland
+
+
+
+october 20
+Defect 359 - fixed
+Defect 539 - fixed
+Defect 543 - fixed
+Defect 544 - sent details to kalai- UI changes done
+Defect 546 - fixed
+Defect 547 - fixed
+
+Defect 548 - working as expected.
+
+
+Defect 552 - fixed
+Defect 554 - fixed
+Defect 555 - 2.error message twice - mobile and computer version - fixed
+
+
+CORPS-3406 : DOB calendar, shouldn`t appear after entering PESEL number
+Defect 557
+In production Click on DOB field -> calender is opened -> then enter pesel number -> dob is populated.
+Still the calender is showing it is not closing. 
+In our application it is closing.
+Do we need to copy the same?
+
+Please confirm the exact requirement.
+
+october 21
+get post method changes
+
+october 22
+Defect 561 - fixed
+CORPS-3406 - need to ask any business logic behind this.
+Defect 558 - information sent kalai
+Defect 559 - working as expected
+
+october 27
+
+Defect 573 -  fixed
+defect -580 - working in QA.
+Defect 581 - fixed.
+Defect 586 - label changes
+Defect 575 - QA it is working.
+Defect 572 - QA it is working.
+
+
+
+
+Defect 540 - fixed . need to check after deployment
+Defect 548 - fixed
+Defect 566 - fixed
+Defect 567 - can fix
+Defect 568 - fixed
+Defect 583 - need to check
+Defect 584 - fixed
+
+
+Defect 587 - need to check
+Defect 591 - fixed
+Defect 592 - label changes
+
+Defect 593 - fixed
+
+
+
+
+october 29
+
+Defect 526 - last point fixed and others are working
+Defect 530 - yet to check with shabana
+Defect 532 - it is not constant. varying
+Defect 535 - mobile pdf defect
+Defect 539 - it is not constant
+Defect 550 - fixed
+Defect 551 - working as expected
+Defect 552 - tooltip hidding in mobile
+Defect 553 - working as expected - as per existing application
+Defect 554 - fixed
+Defect 555 - 
+1st point not able to understand
+2nd point fixed
+•	„Place of Event” - more characters can be entered - it should be limited to 20 characters - mobile
+others working as expected
+
+Defect 564 - need to work on
+Defect 567 - need to work on
+Defect 583 - need to work on
+Defect 586 - shabana need to check the labels
+Defect 589 - need to work
+Defect 592 - fixed
+Defect 594 - 5 points - 1 point is pending
+Remove all diacritics		Ă Î Â Ș Ț  ă î â ș ț replaced with A I A S T / a i a s t
+Defect 595 - need to work on
+Defect 598 - closed in jira
+Defect 599 - need to work on
+Defect 605 - need to check
+Defect 606 - need to check
+
+
+
+Defect 594 -CORPS-3444
+ 5 points - 1 point is pending
+ Remove all diacritics		Ă Î Â Ș Ț  ă î â ș ț replaced with A I A S T / a i a s t
+
+
+Defect 586 - CORPS-3464 
+
+
+Defect 530
+"Poland : TypeOfEvent=Employee benefits insurance, 
+Coverage=Accident, 
+ProposeToClaim=Individual, 
+Event=Accidental-Yes
+
+Label is different compared to existing QA
+Our Application: Description of injuries sustained in accident or diagnosis of the sickness and/or description of current health state
+Existing QA: The diagnosis indicated in the medical documentation and/or a description of the effects of the insurance event and/or a description of the current health condition *
+
+Defect 612 - as per property file
+
+
+
+
+
+Defect 592 -  I need to revert
+
+defect CORPS-3464 MissingPL   letter in attach pdf : "Wniosek o wypłatę świadczenia" 
+
+Defect 509
+
+
+
+
+
+
+
+November 2
+
+given UI KT
+
+Defect 586 - fixed
+Defect 594	CORPS-3444 - fixed
+Defect 598 -  fixed, 2 point is pdf change kalai
+country code change and claimtypevaluelabel requested by kalai
+Defect 608 - fixed
+Defect 612 - it is working as per existing appication. Discussed with shabana
+
+Defect 606 - need clarification with shabana
+
+
+Defect 614 - working as expected
+
+
+November 3
+Defect 509 - fixed
+
+Defect 552  - fixed
+worked on shabana requested changes
+
+Defect 555 - workingas expected
+Defect 567 - fixed
+Defect 583 - not reproduceable
+Defect 595- not reproduceable
+Defect 599 - fixed
+Defect 619 - fixed
+
+Defect 621- fixed
+
+Defect 623- fixed
+
+
+
+November 4
+Defect 605 - fixed
+CORPS-3508 - fixed
+Defect 622 - fixed
+
+Defect 564
+1. it ll go to the top of the screen. need to work
+2. dont have idea
+3. not able to debug 
+4. fixed
+5. fixed
+6. need  to debug
+7. fixed
+8. 
+9. 
+
+
+Defect 589
+1. fixed
+2. not able to debug code
+3. not able to debug code
+4. fixed
+5. fixed
+6. not able to debug code fix given need to check once deployed
+7. dont have any idea. it is opening in new tab. added one fix.lets check
+8. VD-37 as per Visual design
+9. not  able to debug
+10. vd-11 As per  Visual design removed flag
+11. not  able to debug
+
+
+CORPS-3522 - not able to find the  issue
+
+
+
+November 5
+Defect 599 - fixed need to check after deployment
+Defect 614 - fixed
+Defect 616 - fixed
+Defect 625 - fixed
+Defect 626 - checked with chrome samsung galaxy working as expected
+Defect 627 - not able to reproduce
+Defect 628 - need more clarification. 
+Defect 634 - fixed
+Defect 638 - fixed
+Defect 639 - fixed duplicate of 638
+Defect 640 - fixed
+
+Defect 642 - double click or triple click makes the screen fit to the device
+
+
+November 6
+Defect 630 - fixed
+Defect 631 - fixed
+Defect 632 - fixed
+Defect 633 -  not able to debug
+Defect 637 - fixed
+copy data correspon fixed
+CORPS-2223 - fixed
+
+
+country code URL fix
+value retain fix
+
+
+November 9
+Defect 627 - working as expected
+Defect 509 - fixed
+Defect 599 - fixed
+Defect 624 - fixed
+Defect 634 - fixed.
+Defect 633 - 3rd point fixed
+Defect 641 - fixed by shabana
+
+Defect 643 - not reproduceable
+
+
+november 10
+Defect 595
+
+Defect 606 - Docs list are coming from backend. we are removing already attached documents while changing document related options changed.
+
+Defect 633 - dont know the fix. need to do r nd d
+
+Defect 642 - perfecto shows server not found error
+
+Defect 643 - not reproduceable
+
+Defect 646 -
+1.fixed
+2.fixed
+3. backend change
+4. not able to reproduce
+5.fixed
+6.fixed
+7. not able to reproduce
+8. not able to reproduce
+9. not able to reproduce
+Defect 648 - fixed
+
+Defect 649 - not able to reproduce. dont know wheather fixed
+Defect 655 - fixed
+Defect 656 - not able to reproduce
+
+Defect 657 - it is triggering. it is not validating correctly
+
+
+
+
+
+November 11
+CORPS-3516 - fixed
+CORPS-3537 - change request
+Defect 586 - fixed
+Defect 595 - gave a fix. we will check 
+Defect 606 - need to check
+Defect 633 - need to check in google
+Defect 642
+Defect 643 - not able to reproduce via manual testing. while testing script wee find the issue.
+Defect 649 - not reproduceable
+Defect 658 - Fixed
+Defect 661 - working as per existing
+
+
+november 16
+
+clear console errors
+
+Defect 557 - purpose of the logic is not proper.
+Defect 586 - pdf label
+Defect 594 - added some more corrections. need to check with shabana.
+Defect 627 - 663 - redirected to inactive page
+defect 656 - fixed
+Defect 660 - fixed
+Defect 662 - working as expected
+Defect 664 - I dont know we purposely did the textbox position changed.
+Defect 665 - I am able to see in QA
+Defect 666 - it is as per the design. it is a CR. estimeted the effort
+Defect 667 - it is as per the design. it is a CR
+Defect 668 - it is wording correction need to check with shabana
+Defect 669 - need to check
+
+Defect 670 - it is fixed
+Defect 674 - fixed
+
+
+
+
+november 17
+ecustomer
+Defect 332 - fixed need to check after deployment
+defect 328 - fixed
+Defect 330 - fixed
+
+
+
+
+
+november 17
+Defect 594 - half fixed
+
+664 label changes done- position need to check
+
+
+defect 668 - fixed
+
+
+
+
+november 19
+Defect 341 - fixed
+Defect 395 - fixed
+Defect 392 - fixed
+24) When we click on Logout from Cross-menu, after Logout, the Cross Menu is still opens. It should get closed after logged out.
+fixed
+
+Defect 344 - fixed
+Defect 345 - working as expected
+Defect 346 - fixed
+Defect 347 - fixed
+Defect 348 - working as expected
+Defect 408
+ 
+ 
+ november 20
+ Defect 390
+
+
+november 24
+Defect 305 - fixed
+Defect 378 - fixed
+Defect 348 -fixed
+Defect 346 - working as expected
+Defect 344 - working as expected
+
+
+november 26
+yesterday I worked on eclaims defect fixing and ecustomer service integration there are 13 service integration in personal data screen.
+upto 8 integrations yesterday
+
+
+november 28
+worked in validation part in persona data change
+address validation service integration is pending 
+having issue with execution service call I have asked for change. 
+while connected with robin for some service error,
+we saw one more screen is there with 
+view order service call and print functionality is there in that screen
+
+
+december 8
+eclaims Defect 680 - fixed
+Defect 184 - fixed
+Defect 553 -  working as per eclaims. if customer raise the same we will check on this.
+
+defect 554 - fixed
+
+Defect 559 - fixed
+Defect 622 - fixed
+
+
+Defect 678 - first 2 points are not a defect. ohter 3 fixed
+Defect 679 - it is working. may be fixed it before
+Defect 680 - fixed
+Defect 689 - fixed
+
+defect 693 - fixed - error message will be shown as From Date year should not be lesser than 1900 
+defect 694 -  working as per eclaims. if customer raise the same we will check on this.
+
+Defect 697 - as per existing application
+Defect 723 - fixed
+
+
+
+
+december 10
+CORPS-4232 
+Defect 184 - fixed
+    373 - fixed
+​    412 - fixed
+​    509 - fixed
+​    575 - fixed
+
+mycontracts->contractvalue,orders
+administration - > users, order reports
+
+december 14
+
+Defect 343 - need more clarification(email reference)
+Defect 396 - need more clarification(email reference)
+Defect 419 - need to check
+Defect 427 - checking the issue
+Defect 559 - need to change in service side countryName.
+Defect 575 - working for me
+
+
+Defect 694 - need to analyse more 20 become 1920 date
+
+Defect 711 - need more clarification(email reference)
+
+Defect 744 - half completed (2 points are pending)
+
+Defect 800 - response is coming as empty
+Defect 804 - fixed
+Defect 819 - Defect 799 - fixed
+
+defect 4507 - fixed
+
+
+december - 15
+Defect 343 - fixed
+Defect 373 - changed as per requirement  working as expected
+Defect 575 - changed as per requirement working as expected
+Defect 396 - fixed
+Defect 711 - fixed
+Defect 744 - fixed
+Defect 792 - already fixed in some other defect.
+Defect 800 -  response is empty. details sent mail to Finson.
+
+
+
+Defect 697 -  already fixed 1st point.
+developed as per existing not by VD. - in Osama's name
+Defect 844	- date max min error. fixed - bhavadharani's name
+
+
+
+
+Defect 419 - date 31 not ablle to enter
+Defect 427 - calender is empty
+Defect 694 - date if enter 20 taking as 1920
+
+
+
+
+december 16
+defect 689 - fixed
+Defect 690 - fixed
+Defect 419 - fixed
+
+
+closed user logout functionality
+
+design document for eclaims
+
+
+december 17
+Defect 859 - seems like data issue. informed to Robin
+Defect 867 - fixed
+Defect 860 - one fixed another assigned to Robin
+
+
+december 18
+Defect 427 - working as expected. May be fixed in someother defect
+Defect 436 - fixed it is working in perfecto also
+Defect 893 - working as expected
+
+december 21
+CORPS-4228 -
+5 th point :to show the comparisoin we are showing the empty value on labels
+
+december 22
+Defect 419 - fixed 3 points other is db values operating Types.
+
+
+jan 4
+
+Defect 427 - Nov is showing instead of Noi.
+
+Defect 980 - fixed
+Defect 981 - need to put service call for each typing character
+
+
+Defect 986 - fixed
+
+
+Defect 988 - data issue
+
+
+Defect 989 - fixed
+
+
+Defect 1079
+
+
+ 
+jan 7 
+Defect 1135 - fixed
+
+Defect 1136
+
+Defect 1137 - fixed
+Defect 1138 - fixed
+Defect 1127 - fixed
+Defect 1128 - changed the order also if the value is not there it wont come
+Defect 1158 - fixed
+
+
+
+Defect 328
+Defect 345
+Defect 427
+Defect 694
+
+ 
+
+
+
+
+Defect 1148	CORPS-4955	Customer	Sprint 4	P1	Major	MOBILE No confirmation of consent change
+Defect 1126	CORPS-4927	Customer	Sprint 4	P1	Moderate	Mailing Address â€“ change of mailing address â€“ MANDATORY fields and messages
+
+eclaims
+Defect 684	CORPS-3406	Customer	Customer Defect	P1	Major	"DOB calendar, shouldn`t appear after entering PESEL number. 
+Refer mail on 24-Nov-20 10:29 PM"
+
+
+
+jan 11
+Defect 1158 - fixed
+Defect 1164 - fixed
+Defect 1127	CORPS-4926 - code got reverted because of robin change.(enhancement not defect)
+Defect 1137	CORPS-4923 -working - new label change (enhancement not defect)
+Defect 1135	CORPS-4925 - fixed
+Defect 1136 -working
+Defect 1137	CORPS-4923 -working - new label change (enhancement not defect)
+Defect 1138	CORPS-4922 -working
+Defect 1148	CORPS-4955 - shabana will send mail
+
+Defect 1164 CORPS-4965 2nd point is pending
+
+
+Jan 12
+Defect 1126 - fixed
+
+Defect 246 - working as expected
+Defect 1079 - working as expected
+
+Defect 1164	CORPS-4965 - fixed
+Defect 1154	CORPS-4951 - fixed
+
+Defect 1186	CORPS-5007 need clarification sent mail to shabana.
+
+
+
+jan 18
+
+Defect 1131	CORPS-4917 - working
+Defect 1148	CORPS-4955 - mail sent to shabana
+
+Defect 1154 CORPS-4951  - working
+
+Defect 1164 CORPS-4965 - fixed
+Defect 1186	CORPS-5007 - mail sent to shabana
+
+Defect 1204	CORPS-5028 
+1st point requirement - fixed
+2nd point is not a defect. If no value is there then the label will come inside the box. Working as expected
+3rd point fixed
+
+Defect 1213	CORPS-5058 - working as expected.
+
+
+Defect 1178 fixed 2 points 1 point is working as expected lot of zip code is there so service call will go
+Defect 1241	CORPS-5067 fixed
+
+
+
+
+jan 19
+Defect 1241	CORPS-5067  working
+Defect 1178 working
+
+
+
+Defect 246 - fixed
+Defect 1186 - 1 technical point fixed. another 1 point shabana need to check with customer for the label
+Defect 1164 - 2 points fixed. 1 point Robin needs to check
+Defect 1249 fixed
+ 
+ 
+ 
+ jan 20
+Defect 246 - fixed - working
+Defect 1249 working
+
+
+
+jan21
+Defect 1272	CORPS-5148 fixed
+
+eclaims
+Defect 704	CORPS-5143 fixed new requirement
+Defect 702	CORPS-5155 fixed 
+Defect 706	CORPS-5134 fixed new change
+Defect 703	CORPS-5154 fixed
+Defect 705	CORPS-5141 new labels bavadharani
+
+
+
+
+jan 25
+
+Defect 1302	CORPS-5177 -  need to check with robin empty landline mandated
+Request URL: http://10.65.153.19:9080/emea/api/v1/users/validate-address
+
+request : {"country":"PL","flat":"","city":"CITY_948","house":"5","pinCode":"97-200","street":"STREET_948","userId":"Admin3","landline":null,"mobile":null,"email":null}
+
+response:
+{"validAddress":false,"isValidMobile":false,"isValidLandLine":false,"isValidEmail":false,"errorCode":"1200407","errorMsg":null}
+
+
+Defect 1305	CORPS-5176 - need to check with robin
+
+Defect 1304	CORPS-5178 - new requirement - fixed
+
+
+Defect 1318	CORPS-5217 fixed
+
+Defect 1324	CORPS-5216 - need to check with robin
+
+Defect 1326	CORPS-5214 - street ist beyon 150 streets need to check with robin - need to change street API-both need to work both need to work
+
+Defect 1335	CORPS-5207 - 
+1st point need to check with robin - postal code from webservice
+2nd point working
+3rd point need to check with robin - both need to work
+
+Defect 1343	CORPS-5198 - need to check with robin - need to check in chordion
+
+Defect 1350	CORPS-5188 - informed to robin
+last point in pdf need to check with robin 
+
+
+Defect 1352	CORPS-5184 - pdf issue need to check with robin - informed to robin.
+
+Defect 1353 CORPS -5181 - working as per existing application. not a defect.
+
+Defect 1355	CORPS-5209 - house 0- address validation. not a defect working as existing app
+
+Defect 1356	CORPS-5200 -
+1st point fixed.
+2nd point. If I remove the  
+
+
+
+Defect 1231    CORPS-5063
+Defect 1331    CORPS-5194
+Defect 1354    CORPS-5212
+
+
+
+ 
+
+Jan 27
+Defect 1343	CORPS-5198 whatever response coming from service we are showing it need to check with robin assign to robin name
+Defect 1342	CORPS-5196 fixed
+Defect 1335	CORPS-5207 1st point robin and me need to work 04-993 postal code should not come assign to robin name
+Defect 1326	CORPS-5214 fixed
+Defect 1272	CORPS-5148 fixed.working now.
+Defect 1213	CORPS-5058 - It is working now.
+Defect 981 robin fixed
+
+Defect 1304	CORPS-5178 can move to retest
+
+Defect 1356	CORPS-5200 - 
+1st point fixed
+2nd point already in one defect raised for misalignment because of removal of label if there is no value for that. Now again defect raised to remove label if there is no value.
+
+Defect 1318	CORPS-5217 
+1st point requirement - fixed
+2nd point working as per existing application- committed the code
+
+
+
+country list slowness differes from new and existing
+info unwanted call new claim
+existing claim duplicate call
+
+virus scan
+
+
+
+Jan 28
+Defect 1186	CORPS-5007 -reassigned defect translation given by customer- fixed
+Defect 1164	CORPS-4965 - fixed
+
+Defect 1371	CORPS-5238 - eclaims wording corrections - fixed
+
+
+
+Defect 1272	CORPS-5148 - working
+Defect 1326	CORPS-5214 - working
+Defect 1342	CORPS-5196 - working
+
+Defect 1213	CORPS-5058 - working
+Defect 1231	CORPS-5063 - working
+Defect 981 - working
+ 
+
+
+
+
+Jan 29
+Defect 1318	CORPS-5217 working screenshot send.
+Defect 1164	CORPS-4965 fixed
+Defect 1374	CORPS-5261 working in QA
+
+
+
+
+Defect 1371	CORPS-5238 working
+Defect 1231	CORPS-5063 working
+Defect 1213	CORPS-5058 working
+Defect 1186	CORPS-5007 working
+Defect 1164	CORPS-4965 working
+Defect 1154	CORPS-4951 working
+
+
+
+
+
+
+feb 1
+Defect 1154	CORPS-4951 working as expected mail has sent.
+Defect 1164	CORPS-4965 fixed
+Defect 1186	CORPS-5007 working
+Defect 1213	CORPS-5058 working as expected mail has sent.
+Defect 1353	CORPS-5181 reopened for label change request.
+
+Defect 1396	CORPS-5290 eclaims one point pending. most is label changes. reassign defect
+
+
+
+
+$#2021_8810#$
+
+
+feb 2
+Defect 1342	CORPS-5196 reopened for another page. fixed
+Defect 1353	CORPS-5181 reopened for label change. fixed
+
+feb 3
+Defect 981	 we can move to retest
+Defect 1342	CORPS-5196 we can move to retest
+ Defect 1396	CORPS-5290 move to retest
+
+
+
+feb 9
+Defect 1340 CORPS-5202 not a defect created as per VD.
+Defect 1318	CORPS-5217 working as per existing application
+
+feb 11
+CORPS-5181 
+
+
+
+feb 12
+kalai - EH defect refresh
+Robin- hide house number and flat number for poland app other countries
+
+
+
+
+
+
+
+
+feb 19
+Defect 981 - 1st point fixed and 2nd point error messages are given as per property file.
+Defect 1418 - fixed
+Defect 1425 - this is how it is saved in DB
+Defect 184	CORPS-3490 - fixed by bhavadharani
+
+refresh issue
+offshore defects
+karma cases
+
+
+
+
+
+
+ Defect 1396 CORPS-5290
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+completed CR's : 
+
+1. done
+4. done
+6. done
+7. done
+8. done
+9. done
+11. done
+12. done
+
+
+Need More clarification CR's:
+
+2.	For Citizenship = Poland  do not show the field “Country of Birth”
+
+--Is it applicable for both poland and romania applications?
+--If poland is citizenship, then what value we need to put for country of birth?
+--do we need to empty the country of birth field while?
+
+
+3.	Attach documents
+The below entry - hide field, don't remove
+
+--Based on the checkbox checked we are allowing the user to submit
+--If we hide the field we need to remove the validation logic
+
+--hide means - is it based on rulesheet or just hide from UI?
+--hiding the checkbox alone or the text also?
+need ask osama to hide the field in rulesheet.
+
+
+5.	Attach documents . Please remove “Country” 
+
+--Based on the country selection we are showing the mobile number field and ISD code field in the seperate boxes
+--If we remove the country how should we show the mobile number field with or without seperate ISD field?
+--based on that we need to change the input field length also.
+
+
+6.	adding a header
+7.	adding a header
+8.	adding a text 
+9.	 Submit new claim - adding a text (where it should be added).
+
+--Need romania version of labels
+
+
+
+
+
+
+
+Defect 709 - not able to reproduce
+Defect 711 - fixed
+Defect 712 - not able to reproduce
+
+
+
+
+
+
+siteminder
+CR changes checking
+clear cache issue
+testcase ecustomer -eclaims
+metlife learnings
+Q1 deliverables
+
+
+used in eclaims and ecustomer project:
+configurable environment after the depoyment also.
+take until in subscribe
+
+Goswami, Sayantani
+https://community.broadcom.com/communities/community-home/digestviewer/viewthread?MID=770442
+
+
+
+
+
+
+encode uri decode uri for unicode characters like polish in token service call with btoa. production issue.
+refresh token.
+sensible data make as password input
+
+
+
+
+https://www.thehindu.com/sci-tech/health/india-confirms-first-death-following-covid-19-vaccination/article34820939.ece
